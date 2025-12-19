@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "msg": "Login successful",
+  "data": {
+    "id": 101,
+    "username": "JEF2025",
+    "email": "user@example.com"
+  }
+}
